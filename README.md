@@ -1,4 +1,4 @@
-# energized-together
+# Energized Together
 
 Bringing energy production to your neighbourhood, we connect for a brighter tomorrow.
 
