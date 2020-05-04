@@ -4,6 +4,16 @@ Bringing energy production to your neighbourhood, we connect for a brighter tomo
 
 Energy production, storage, transportation and consumption can be decentralized. Neighbourhoods, buildings, and individual units can become energy self-sufficient through investment in energy infrastructure. 
 
+The ideal solution might look like this:
+- Each household has an energy reserve to last a couple of days according to their energy consumption (big battery bank)
+- Households are connected to a local neighbourhood energy grid node and receive power from a larger storage reserve when their reserve is deleted or their current draw exceeds the capacity of their reserve to deliver
+- Each household that is capable of generating energy would deploy as much solar panel or wind turbine capacity as their space can support, preferring high-efficiency/high-density energy production sources
+- Each household with generation capacity fills their own reserve, and then sends the surplus energy to the local node's reserve to be stored and distributed to those without generation capacity
+- The local neighbourhood node would have it's own larger-scale energy generation capacity if possible, and would be connected to a backup energy source (fossil fuel generator, hydrogen fuel cell, or other means) to prevent blackouts. The local node would serve as a control point for the distribution of energy across it's connected members.
+- The local node can be connected to nodes in other close neighbourhoods, or a regional or national grid to ensure a consistent source of energy, and to sell surplus generated energy to the regional or national grid if the storage reserve are completely filled. Ideally these neighbourhood nodes would work in lock-step to distribute the loads across the whole regional network in an autonomous and decentralized manner. If one node has a higher load than it can support, its neighbours would sent it some of their stored reserve or excess generated energy. This would prevent brown-outs by distributing the load evenly across the network. This is similar to how trees collaborative take care of one another. When one tree is sick or injured, its neighbours send it food through their root network.
+
+I call this design a Distributed Energy Network Transfer (DENT) system.
+
 ## Production
 
 Energy must be harvested by some means. This can be through the installation and maintenance of solar arrays, wind turbines, or some other means of energy production, such as tidal, gravitational, or geothermal production.
