@@ -12,7 +12,7 @@ The ideal solution might look like this:
 - The local neighbourhood node would have it's own larger-scale energy generation capacity if possible, and would be connected to a backup energy source (fossil fuel generator, hydrogen fuel cell, or other means) to prevent blackouts. The local node would serve as a control point for the distribution of energy across it's connected members.
 - The local node can be connected to nodes in other close neighbourhoods, or a regional or national grid to ensure a consistent source of energy, and to sell surplus generated energy to the regional or national grid if the storage reserve are completely filled. Ideally these neighbourhood nodes would work in lock-step to distribute the loads across the whole regional network in an autonomous and decentralized manner. If one node has a higher load than it can support, its neighbours would sent it some of their stored reserve or excess generated energy. This would prevent brown-outs by distributing the load evenly across the network. This is similar to how trees collaborative take care of one another. When one tree is sick or injured, its neighbours send it food through their root network.
 
-I call this design a Distributed Energy Network Transfer (DENT) system.
+We call this design a Distributed Energy Network Transfer (DENT) system.
 
 ## Production
 
